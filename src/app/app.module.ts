@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponentComponent } from './header-component/header-component.component';
 import { NewTaskAddComponent } from './new-task-add/new-task-add.component';
 import { ItemListComponent } from './item-list/item-list.component';
-import {ReactiveFormsModule} from "@angular/forms";
+import {ReactiveFormsModule} from '@angular/forms';
 
 @NgModule({
   declarations: [
